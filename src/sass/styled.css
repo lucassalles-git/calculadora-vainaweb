@@ -75,6 +75,7 @@ main .btn button:hover {
   transition: all 0.5s;
 }
 main h3 {
+  height: 3rem;
   color: #0a036e;
   font-size: 2rem;
 }

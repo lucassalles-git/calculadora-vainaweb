@@ -38,7 +38,7 @@ export default function App() {
 
       <section className="inp">
         <input placeholder="Digite um número" type="number" onChange={capturandoPrimeiroValor} />
-        <input placeholder="Digite um número" onChange={capturandoSegundoValor} />
+        <input placeholder="Digite um número" type="number" onChange={capturandoSegundoValor} />
       </section>
 
       <section className="btn">
